@@ -14,3 +14,10 @@ Learning Django • React • MySQL • Building Real Projects 🚀
 - 💻 Python Full Stack Developer
 - 🚀 Building Company QR Code Generator
 - 📫 Email: vanshtyagi1600v@gmail.com
+
+- 
+## 🛠️ Languages and Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,django,html,css,javascript,react,mysql,git,github,vscode" />
+</p>
