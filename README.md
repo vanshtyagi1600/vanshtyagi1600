@@ -19,7 +19,7 @@ Learning Django • React • MySQL • Building Real Projects 🚀
 ## 🛠️ Languages and Tools
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,django,html,css,javascript,react,mysql,git,github,vscode" />
+<img src="https://github-readme-stats.vercel.app/api?username=vanshtyagi1600&show_icons=true&theme=radical&cache_seconds=1800" />
 </p>
 
 ## 📊 GitHub Stats
