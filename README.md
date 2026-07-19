@@ -26,7 +26,20 @@
 <p align="left">
 <img src="https://skillicons.dev/icons?i=python,django,html,css,javascript,react,mysql,bootstrap,git,github,vscode,linux" />
 </p>
+### 💻 Skills
 
+- 🐍 Python
+- 🎯 Django
+- ⚛️ React.js
+- 🌐 HTML5
+- 🎨 CSS3
+- ⚡ JavaScript
+- 🗄️ MySQL
+- 🎨 Bootstrap
+- 🔧 Git
+- 🐙 GitHub
+- 💻 VS Code
+- 🐧 Linux
 ---
 
 ## 🚀 My Projects
