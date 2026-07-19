@@ -31,4 +31,15 @@
 - 🏥 Hospital Management System
 - 🎓 College Management System
 - 🌐 Portfolio Website
-- 📱 Company QR Code Generator
+
+---
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=vanshtyagi1600&theme=tokyonight)
+
+---
+
+## 👀 Profile Views
+
+![](https://komarev.com/ghpvc/?username=vanshtyagi1600&color=blue)
