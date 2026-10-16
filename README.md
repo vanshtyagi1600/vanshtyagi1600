@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Vansh Tyagi</h1>
 
-<h3 align="center">🚀 Python Full Stack Developer
+<h3 align="center">🚀 Python Full Stack Developer & 
   DATA STRUCTURE ALGORITHM & Ai🚀</h3>
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Python+Full+Stack+Developer;Django+Developer;React+Learner;Building+Awesome+Projects;Welcome+To+My+GitHub+Profile" />
